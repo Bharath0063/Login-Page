@@ -1,0 +1,81 @@
+*{
+    margin: 0%;
+    padding: 0%;
+   
+}
+.center{
+    float: left;
+    height: 550px;
+    width: 550px;
+    margin-top: 30px;
+}
+h1{
+    justify-content: center;
+    text-align: center;
+    margin-top: 50px;
+    font-size: 309px;
+    color: skyblue;
+}
+p{
+    justify-content: center;
+    text-align: center;
+    
+}
+.center1{
+    float: right;
+    margin-left: 400px;
+}
+.banner{
+    justify-content: center;
+    text-align: center;
+}
+.banner1{
+    width: 55%;
+    border: 3px solid black;
+}
+.banner2{
+    width: 55%;
+    border: 3px solid black;
+}
+.banner1:hover{
+    border: 3px solid skyblue;
+}
+.banner2:hover{
+    border: 3px solid skyblue;
+}
+.demo{
+    justify-content: center;
+    text-align: center;
+    margin-top: 15px;
+    margin-right: 58px;
+}
+.main{
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: blue;
+    color: white;
+    height: 40px;
+}
+.forget:hover{
+    color: red;
+}
+.photo1{
+    width: 80px;
+    height: 37px;
+    border: none;
+    
+    
+}
+.photo{
+    margin-top: 25px;
+    margin-left: 140px;
+    
+}
+button{
+    border: none;
+}
+.footer{
+    justify-content: center;
+    text-align: center;
+}
+
